@@ -19,3 +19,6 @@ The implemented dashboard can be viewed and tested at the url: https://www.unida
 Wie sieht die technische Entwicklung der Räume aus?
 9. Wie hat sich Arbeitsbelastung bezüglich Lehre für Professoren entwickelt?
 10. In welchem Studiengang finden die meisten Veranstaltungen auf Englisch statt?
+
+
+Impressum: doubleblind44@gmail.com
