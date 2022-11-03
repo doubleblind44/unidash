@@ -39,7 +39,6 @@ exam_periods = [("2009w", 11, 2, 24, 2, 29, 3, 9, 4),
                 ("2018w", 11, 2, 23, 2, 25, 3, 6, 4),
                 ("2019s", 8, 7, 20, 7, 7, 10, 19, 10)]
 
-# TODO für Yorik: moduldbparser einbauen
 def create_df_modul_db() -> pd.DataFrame:
     """"
     This function creates a data frame from all modul db data.
