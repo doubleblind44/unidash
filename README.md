@@ -1,4 +1,4 @@
-# DataScienceProject
+# UniDash
 
 
 ## Viewing the dashboard
